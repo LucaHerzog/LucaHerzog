@@ -7,6 +7,7 @@
 
 - [Twitter](https://twitter.com/LucaHerzog1)
 - Discord: @[TOP] RedImSky#0958
+- Mail: me@luca-herzog.de
 
 🌐 My Projects:
 
