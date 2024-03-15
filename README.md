@@ -6,14 +6,13 @@
 📫 How to reach me:
 
 - [Twitter](https://twitter.com/LucaHerzog1)
-- Discord: @[TOP] RedImSky#0958
+- Discord: @redimsky
 - Mail: me@luca-herzog.de
 
 🌐 My Projects:
 
-- [FFM Reallife](https://livck.com) (released at: 13.11.2020)
-- [SoulGames](https://go2x.link) (released at: 25.11.2020)
-- [School Office](https://netichost.com) (released at: 16.03.2021)
+- [Nordverband RP](https://nordverbandrp.de) (released at: 19.08.2023)
+- [FiveSoftware](https://fivesoftware.de) (released at: 15.03.2024)
 <!--- [Bot-Feature](https://bot-feature.com) (released at: 25.03.2021)-->
 
 🔒 Projects in the planning stage:
