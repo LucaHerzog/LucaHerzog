@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey, I'm Luca 👋<br><br>🍃 Luca Herzog / <br>🔭 17 years old<br>📍  Stuttgart, Germany
+Hey, I'm Luca 👋<br><br>🍃 Luca Herzog / <br>🔭 18 years old<br>📍  Stuttgart, Germany
 
 
 ## 🌐 Socials:
